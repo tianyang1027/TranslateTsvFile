@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslateTsvFile", "TranslateTsvFile\TranslateTsvFile.csproj", "{5C509FE1-6D8A-4FE8-8A30-63229CA51C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C509FE1-6D8A-4FE8-8A30-63229CA51C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C509FE1-6D8A-4FE8-8A30-63229CA51C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C509FE1-6D8A-4FE8-8A30-63229CA51C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C509FE1-6D8A-4FE8-8A30-63229CA51C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B9D0B5-6D2B-48E5-BEE6-D008A3738818}
+	EndGlobalSection
+EndGlobal
